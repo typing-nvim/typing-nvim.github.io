@@ -1,4 +1,10 @@
 {
+	"easy": {
+		"keyboard": {
+			"left": "=1qaz`",
+			"right": "0-p\\;'/]"
+		}
+	},
 	"hard": {
 		"keyboard": {
 			"left": "qazQAZ=+1!`~",
