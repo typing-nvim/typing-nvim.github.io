@@ -1,0 +1,42 @@
+{
+	"pinky": {
+		"left": {
+			"normal": "=1qaz`",
+			"capital": "+!QAZ~"
+		},
+		"right": {
+			"normal": "0-p\\;'/]",
+			"capital": ":P)_|\"?}"
+		}
+	},
+	"ring": {
+		"left": {
+			"normal": "2wsx",
+			"capital": "@WSX"
+		},
+		"right": {
+			"normal": "9ol.[",
+			"capital": "(OL>{"
+		}
+	},
+	"middle": {
+		"left": {
+			"normal": "3edc",
+			"capital": "#EDC"
+		},
+		"right": {
+			"normal": "8ik,",
+			"capital": "*IK<"
+		}
+	},
+	"index": {
+		"left": {
+			"normal": "4rfv5tgb",
+			"capital": "$RFV%TGB"
+		},
+		"right": {
+			"normal": "7ujm6yhn",
+			"capital": "&UJM^YHN"
+		}
+	}
+}
